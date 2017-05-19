@@ -6,3 +6,5 @@ Added some lines for Delta Track
 Try push
 
 before pull
+
+added some lines from browser
