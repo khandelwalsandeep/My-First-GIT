@@ -4,3 +4,5 @@ Mastered the merge conflict with new changes.
 Added some lines for Delta Track
 
 Try push
+
+before pull
