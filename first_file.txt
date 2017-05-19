@@ -2,3 +2,5 @@ My first content
 Added some content from the local repo
 Mastered the merge conflict with new changes.
 Added some lines for Delta Track
+
+Try push
